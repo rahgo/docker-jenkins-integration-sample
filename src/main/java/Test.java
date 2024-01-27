@@ -1,6 +1,8 @@
 public class Test {
-
-    public static void main (string[] args) {
-        System.out.println("JAI SHREE RAM")
+    
+    public static void main (String{} args) {
+        System.out.println ("JAI SHREE RAM");
     }
 }
+
+    
